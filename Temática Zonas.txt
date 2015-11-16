@@ -1,0 +1,8 @@
+Omara:
+	-Oro: Pokémon (Coliseo)
+	-Plata: Zelda (Nivel de exploración/Mazmorra)
+	-Bronce: Layton (Cuestionario)
+Narciso:
+	-Oro: Mario (Nivel de plataforma)
+	-Plata: Minecraft (Minijuego de construcción SOMA)
+	-Bronce: Ace Attorney

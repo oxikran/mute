@@ -1,0 +1,85 @@
+*Aram
+-Individual:
+	Ozara+Nameru
+	Ranigami+Rodera
+	Glamentis+Hiberos
+	Saedi+Rodera+Hiberos
+-Grupo:
+	Ozara(Aram)+Puno(Oxi)
+	Rodera(Aram)+Nomeko(Mopik y P)
+	Nameru(Aram)+Azila(Oxi)+Onille(Lissy y P)+Azreu(Mopik y P) *Abierto o Cerrado
+	Rodera(Aram)+Ereti(Oxi)+Bicorta(Lissy y P)+Nomeko(Mopik y P) *Abierto o Cerrado
+		
+*Oxi
+-Individual:
+	Puno+Azila
+	Dera+Ereti
+	Tenevi+Noxere
+	Puno+Tenevi+Yeno
+-Grupo:
+	Ozara(Aram)+Puno(Oxi)
+	Ereti(Oxi)+Bicorta(Lissy y P)
+	Nameru(Aram)+Azila(Oxi)+Onille(Lissy y P)+Azreu(Mopik y P) *Abierto o Cerrado
+	Rodera(Aram)+Ereti(Oxi)+Bicorta(Lissy y P)+Nomeko(Mopik y P) *Abierto o Cerrado
+	Yeno(Oxi)+Obor(Lissy)+Emrased(Mopik)
+
+*Lissy
+-Individual:
+	Xagara+Bicorta
+	Apraz+Onille
+	Lumens+Solos
+	Xagara+Lumens
+	Bicorta+Solos	
+-Grupo:
+	Eplog(Mopik y P)+Apraz(Lissy y P)
+	Ereti(Oxi)+Bicorta(Lissy y P)
+	Nameru(Aram)+Azila(Oxi)+Onille(Lissy y P)+Azreu(Mopik y P) *Abierto o Cerrado
+	Rodera(Aram)+Ereti(Oxi)+Bicorta(Lissy y P)+Nomeko(Mopik y P) *Abierto o Cerrado
+	Yeno(Oxi)+Obor(Lissy)+Emrased(Mopik)
+
+*Mopik
+-Individual:
+	Eplog+Azreu
+	Uhka+Nomeko
+	Igfortia+Infere
+	Igfortia+Eplog+Emrased
+-Grupo:
+	Rodera(Aram)+Nomeko(Mopik y P)
+	Eplog(Mopik y P)+Apraz(Lissy y P)
+	Nameru(Aram)+Azila(Oxi)+Onille(Lissy y P)+Azreu(Mopik y P) *Abierto o Cerrado
+	Rodera(Aram)+Ereti(Oxi)+Bicorta(Lissy y P)+Nomeko(Mopik y P) *Abierto o Cerrado
+	Yeno(Oxi)+Obor(Lissy)+Emrased(Mopik)
+
+*Lissy P
+-Individual:
+	Xagara+Bicorta
+	Apraz+Onille
+	Lumens+Xagara
+	Luvi+Apraz
+-Grupo:
+	Eplog(Mopik y P)+Apraz(Lissy y P)
+	Ereti(Oxi)+Bicorta(Lissy y P)
+	Nameru(Aram)+Azila(Oxi)+Onille(Lissy y P)+Azreu(Mopik y P) *Abierto o Cerrado
+	Rodera(Aram)+Ereti(Oxi)+Bicorta(Lissy y P)+Nomeko(Mopik y P) *Abierto o Cerrado
+
+*Mopik P
+-Individual:
+	Eplog+Azreu
+	Uhka+Nomeko
+	Igfortia+Eplog
+	Igmentis+Uhka
+-Grupo:
+	Rodera(Aram)+Nomeko(Mopik y P)
+	Eplog(Mopik y P)+Apraz(Lissy y P)
+	Nameru(Aram)+Azila(Oxi)+Onille(Lissy y P)+Azreu(Mopik y P) *Abierto o Cerrado
+	Rodera(Aram)+Ereti(Oxi)+Bicorta(Lissy y P)+Nomeko(Mopik y P) *Abierto o Cerrado
+
+*Mopik B
+-Individual:
+	Igfortia+Infere
+	Arucol+Ogital
+	Arucol+Ogital+Infere
+-Grupo:
+	Ninguno
+
+
